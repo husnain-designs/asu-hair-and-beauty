@@ -1,0 +1,7 @@
+*
+!/.gitignore
+!/.claude/
+!/.claude/launch.json
+!/index.html
+!/img/
+!/img/**
